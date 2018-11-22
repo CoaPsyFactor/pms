@@ -1,0 +1,8 @@
+
+.admin-pages-links {
+  text-overflow: ellipsis;
+
+  &:hover {
+    @extend .active
+  }
+}

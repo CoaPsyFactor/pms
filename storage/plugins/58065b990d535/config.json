@@ -1,0 +1,8 @@
+{
+	"name": "Blog",
+	"author": "Aleksandar Zivanovic",
+	"version": "1.0.0",
+	"base_class": "App\\Plugins\\Blog\\BlogPlugin",
+	"dependencies": [],
+	"middlewares": []
+}

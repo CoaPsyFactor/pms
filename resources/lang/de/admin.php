@@ -1,0 +1,52 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: zvekete
+ * Date: 11.10.2016.
+ * Time: 01.20
+ */
+return [
+    'plugin.install.error.1' => 'Datei überschreitet Ihre upload_max_filesize ini-Richtlinie.',
+    'plugin.install.error.2' => 'Datei überschreitet die Upload-Limit in der Form definiert.',
+    'plugin.install.error.3' => 'Die Datei wurde nur teilweise hochgeladen.',
+    'plugin.install.error.4' => 'Es wurde keine Datei hochgeladen.',
+    'plugin.install.error.6' => 'Datei konnte nicht hochgeladen werden: temporäres Verzeichnis fehlt.',
+    'plugin.install.error.7' => 'Datei konnte nicht auf die Festplatte geschrieben werden.',
+    'plugin.install.error.8' => 'Datei-Upload wurde von einer PHP-Erweiterung gestoppt.',
+    'plugin.installation.error.1' => 'ZIP fehlt Konfigurationsdatei.',
+    'plugin.installation.error.2' => 'ZIP-Konfigurationsdatei ist nicht gültig.',
+    'plugin.installation.error.3' => 'Fehlgeschlagen Temp-Verzeichnis zu erstellen.',
+    'plugin.install.success' => 'Plugin erfolgreich installiert.',
+    'plugin.uninstall.success' => 'Plugin erfolgreich deinstalliert.',
+    'plugin.install' => 'Plugin installieren',
+    'plugin.labels.status' => 'Status',
+    'plugin.labels.name' => 'Name',
+    'plugin.labels.base_class' => 'Base Class',
+    'plugin.labels.actions' => 'Aktionen',
+    'pluginBaseClassMissing' => 'Plugin Basisklasse nicht gefunden',
+    'pluginInvalidBaseClass' => 'Plugin haben ungültige Basisklasse',
+    'pluginStatus' => '{0} Deaktiviert | [1, Inf] Aktiviert',
+    'missingParamId' => 'Fehlende Parameter: id',
+    'pluginNotFound' => 'Plugin nicht gefunden.',
+    'pageNotFound' => 'Seiten nicht gefunden.',
+    'settingsSaved' => 'Die Einstellungen werden gespeichert.',
+    'settingsNotSaved' => 'Einstellungen fehlgeschlagen zu speichern.',
+    'panelTitle' => 'Administrationsbereich',
+    'plugins' => 'Plugins',
+    'button.activate' => 'Aktivieren',
+    'button.deactivate' => 'Deaktivieren',
+    'button.options' => 'Optionen',
+    'button.remove' => 'Entfernen',
+    'plugin.options' => 'Plugin Optionen',
+    'sidebar.default.title' => 'Administration Panel',
+    'sidebar.default.content' => 'Willkommen im Admin-Panel.',
+    'sidebar.pages.title' => 'Seiten Einstellungen',
+    'button.edit' => 'Bearbeiten',
+    'sidebar.pages.content' => 'Seiten verwalten und bearbeiten.',
+    'navigation.pages' => 'Seiten',
+    'navigation.plugins' => 'Plugins',
+    'navigation.home' => 'Zur Website',
+    'pages' => 'Siten',
+    'new.page' => 'Neue Seite erstellen',
+    'page.label.visit' => 'Seite besuchen',
+];
